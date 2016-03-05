@@ -37,8 +37,12 @@ Here is `index.html` 7-liner
 Add following script section entry to your package.json
 
     ...
+    "scripts":{
+    ...
     "ab": "node ./node_modules/@stackscz/re-app-builder"
     ...
+    }
+    
 
 so you can run following commands 
 
